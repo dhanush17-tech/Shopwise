@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "361446542797",
+    "project_id": "price-tracker-4cc9b",
+    "storage_bucket": "price-tracker-4cc9b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361446542797:android:b44fcba71d7b98d06b0884",
+        "android_client_info": {
+          "package_name": "com.example.price_tracker_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCshkllyjaxpTrdyDPPZwcicNvIHLa1ybA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361446542797:android:2634bcbd89853e0e6b0884",
+        "android_client_info": {
+          "package_name": "com.priceTracker.shopwise"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCshkllyjaxpTrdyDPPZwcicNvIHLa1ybA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
